@@ -204,6 +204,8 @@ function a(){
 console.log(a)
 a()
 
+
+
 // * interpreted code;
 
 var a;
